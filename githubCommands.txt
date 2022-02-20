@@ -16,8 +16,8 @@ git clone https://github.com/Matchujk/.git
 
 PUSHING EDITED FILE TO REPO
 ---------------------------------------------------------------
-
 git add .
 git branch -M "master"
 git commit -m "commit name"
+git push origin master
 
