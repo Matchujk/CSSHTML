@@ -1,3 +1,5 @@
+INITIALIZING A REPO
+---------------------------------------------------------------
 git init
 git add .
 git status
@@ -7,5 +9,15 @@ git remote add origin https://github.com/Matchujk/.git --- you can omit this if 
 git push origin master
 
 
-
+CLONE A REPO
+---------------------------------------------------------------
 git clone https://github.com/Matchujk/.git
+
+
+PUSHING EDITED FILE TO REPO
+---------------------------------------------------------------
+
+git add .
+git branch -M "master"
+git commit -m "commit name"
+
