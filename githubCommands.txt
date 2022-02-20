@@ -3,7 +3,7 @@ git add .
 git status
 git commit -m "Commit Name"
 git branch -M "master"
-git remote add origin https://github.com/Matchujk/.git
+git remote add origin https://github.com/Matchujk/.git --- you can omit this if you cloned the repo and are pushing an existing commit
 git push origin master
 
 
